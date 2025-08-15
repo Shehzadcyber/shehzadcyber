@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00ff99&size=30&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Shehzad+Ali;Cybersecurity+Researcher+%7C+Pentester;Bug+Bounty+Hunter+%7C+Web3+Security+Learner;Hacker+Mindset+%E2%9C%94+Red+Teamer" alt="Typing SVG">
 </p>
 
+<!-- Hacker Terminal Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&size=22&center=true&vCenter=true&width=800&lines=Initializing+Shehzad's+Hacker+Terminal...;root@shehzadcyber:~#%20whoami;Cybersecurity+Researcher+%7C+Penetration+Tester+%7C+Bug+Bounty+Hunter" alt="Hacker Terminal">
+</p>
+
 <!-- Hacker Badges -->
 <p align="center">
   <a href="https://x.com/TheRoyHunter313"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"></a>
