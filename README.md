@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00ff99&size=30&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Shehzad+Ali;Cybersecurity+Researcher+%7C+Pentester;Bug+Bounty+Hunter+%7C+Web3+Security+Learner;Hacker+Mindset+%E2%9C%94+Red+Teamer" alt="Typing SVG">
 </p>
 
-<!-- Hacker Terminal Intro -->
+<!-- MATRIX / HACKER TERMINAL BOOT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&size=22&center=true&vCenter=true&width=800&lines=Initializing+Shehzad's+Hacker+Terminal...;root@shehzadcyber:~#%20whoami;Cybersecurity+Researcher+%7C+Penetration+Tester+%7C+Bug+Bounty+Hunter" alt="Hacker Terminal">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff66&size=22&center=true&vCenter=true&width=900&lines=>>>+Initializing+Hacker+Terminal...;Loading+kernel+modules%3A+netsec%2C+websec%2C+cloudsec%2C+llmsec;Mounting+/targets+...+OK;Starting+threat+intel+daemons+...+OK;Calibrating+entropy+pool+...+OK;Fetching+scope+and+rules+of+engagement+...+OK;root@shehzadcyber:~%23+whoami" alt="Boot">
 </p>
 
 <!-- Hacker Badges -->
