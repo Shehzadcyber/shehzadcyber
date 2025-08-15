@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00ff99&size=30&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Shehzad+Ali;Cybersecurity+Researcher+%7C+Pentester;Bug+Bounty+Hunter+%7C+Web3+Security+Learner;Hacker+Mindset+%E2%9C%94+Red+Teamer" alt="Typing SVG">
 </p>
 
-<!-- MATRIX / HACKER TERMINAL BOOT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ff66&size=22&center=true&vCenter=true&width=900&lines=>>>+Initializing+Hacker+Terminal...;Loading+kernel+modules%3A+netsec%2C+websec%2C+cloudsec%2C+llmsec;Mounting+/targets+...+OK;Starting+threat+intel+daemons+...+OK;Calibrating+entropy+pool+...+OK;Fetching+scope+and+rules+of+engagement+...+OK;root@shehzadcyber:~%23+whoami" alt="Boot">
-</p>
-
 <!-- Hacker Badges -->
 <p align="center">
   <a href="https://x.com/TheRoyHunter313"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"></a>
@@ -68,6 +63,11 @@
 🛠 **GitHub:** [shehzadcyber](https://github.com/shehzadcyber)  
 
 ---
+
+<!-- MATRIX / HACKER TERMINAL BOOT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff66&size=22&center=true&vCenter=true&width=900&lines=>>>+Initializing+Hacker+Terminal...;Loading+kernel+modules%3A+netsec%2C+websec%2C+cloudsec%2C+llmsec;Mounting+/targets+...+OK;Starting+threat+intel+daemons+...+OK;Calibrating+entropy+pool+...+OK;Fetching+scope+and+rules+of+engagement+...+OK;root@shehzadcyber:~%23+whoami" alt="Boot">
+</p>
 
 > _"Security is not a product, but a process."_ — **Bruce Schneier**  
 > _Hacker Mindset: Offense Fuels Defense_
