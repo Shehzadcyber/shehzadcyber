@@ -13,7 +13,7 @@
  ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2244&center=true&vCenter=true&width=750&lines=🔴+Red+Teamer+%7C+Offensive+Security+Specialist;🔵+Blue+Teamer+%7C+SOC+%26+Threat+Detection;🟣+Purple+Teamer+%7C+Full-Spectrum+Security;💀+CVE+Contributor+%7C+CVE-2025-24966;🐛+Bug+Bounty+Hunter+on+HackerOne;⚡+Hack+The+Planet+—+Ethically." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2244&center=true&vCenter=true&width=750&lines=Red+Teamer+%7C+Offensive+Security+Specialist;🔵+Blue+Teamer+%7C+SOC+%26+Threat+Detection;🟣+Purple+Teamer+%7C+Full-Spectrum+Security;💀+CVE+Contributor+%7C+CVE-2025-24966;🐛+Bug+Bounty+Hunter+on+HackerOne;⚡+Hack+The+Planet+—+Ethically." alt="Typing SVG" />
 
 <br/>
 
@@ -26,9 +26,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![HackerOne](https://img.shields.io/badge/HackerOne-%23494649.svg?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/YOUR_H1)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_THM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehzadali1337/)
+[![HackerOne](https://img.shields.io/badge/HackerOne-%23494649.svg?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/mianumairx3)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ShehSec)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shehzadinfosec@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=ShehSec&color=ff2244&style=flat-square&label=PROFILE+VIEWS)
 
