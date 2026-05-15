@@ -288,9 +288,9 @@ PING ShehSec (shehzadinfosec@gmail.com)
 ```
 
 [![Email](https://img.shields.io/badge/shehzadinfosec%40gmail.com-ff2244?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehzadinfosec@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/YOUR_H1)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-bb44ff?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_THM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehzadali1337/)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/mianumairx3)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-bb44ff?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ShehSec)
 
 <br/>
 
